@@ -5,7 +5,7 @@
 <h1 align="left">Hi 👋, I'm Kutay TISTIK</h1>
 <h3 align="left">Backend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kutaytistik&label=Profile%20views&color=0e75b6&style=flat" alt="kutaytistik" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kutaytistik" alt="kutaytistik" /></a> </p>
 
@@ -22,6 +22,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kutaytistik&show_icons=true&locale=en&layout=compact" alt="kutaytistik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kutaytistik&show_icons=true&locale=en" alt="kutaytistik" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kutaytistik&label=Profile%20views&color=0e75b6&style=flat" alt="kutaytistik" /> </p>
 
 
 
