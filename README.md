@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kutaytistik" alt="kutaytistik" /></a> </p>
+[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kutaytistik" alt="kutaytistik" /></a> </p>](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true)
 
 - 📫 How to reach me **kutaytistik99@gmail.com**
 
