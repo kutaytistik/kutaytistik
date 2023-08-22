@@ -23,7 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kutaytistik&show_icons=true&locale=en" alt="kutaytistik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kutaytistik&" alt="kutaytistik" /></p>
+
 
 
 
