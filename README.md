@@ -1,7 +1,3 @@
-
-
-
-
 <h1 align="left">Hi 👋, I'm Kutay TISTIK</h1>
 <h3 align="left">Backend Developer</h3>
 
